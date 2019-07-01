@@ -10,3 +10,6 @@
 
 # backup
 terraform.tfstate.backup
+
+# provider file
+provider.tf
