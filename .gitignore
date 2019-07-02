@@ -13,3 +13,6 @@ terraform.tfstate.backup
 
 # provider file
 provider.tf
+
+# backend file
+backend.tf
